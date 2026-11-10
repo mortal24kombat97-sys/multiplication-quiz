@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211126633141",
+    "project_id": "multiplicationquiz-66c43",
+    "storage_bucket": "multiplicationquiz-66c43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211126633141:android:ca7d31c46428e52e27f4fc",
+        "android_client_info": {
+          "package_name": "com.example.multiplicationquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuj4yrkvwygprIoSrr8vrmzPSwum_a2oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
